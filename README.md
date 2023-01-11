@@ -1,7 +1,15 @@
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Younus Hussain</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding-gif" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
+<img align="right" alt="Coding-gif" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younushussain9&label=Profile%20views&color=0e75b6&style=flat" alt="younushussain9" /> </p>
 
@@ -9,17 +17,17 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Redux, NextJs**
+- 🌱 I’m currently learning **Redux, Nextjs**
 
 - 👯 I’m looking to collaborate on **React Projects**
 
-- 💬 Ask me about **React ,JavaScript , Redux**
+- 💬 Ask me about **React, JavaScript and Redux**
 
 - 📫 How to reach me **younushussain0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/younushussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younushussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/younus-hussain-3357411b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="younus-hussain-3357411b2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +36,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=younushussain9&show_icons=true&locale=en&layout=compact" alt="younushussain9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younushussain9&" alt="younushussain9" /></p>
+
